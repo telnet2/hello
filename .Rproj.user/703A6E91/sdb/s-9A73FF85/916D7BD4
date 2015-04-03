@@ -1,0 +1,16 @@
+{
+    "contents" : "say = function(x) {\n    cat(x);\n}",
+    "created" : 1428085649319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1872376227",
+    "id" : "916D7BD4",
+    "lastKnownWriteTime" : 1428085765,
+    "path" : "/tools/gradworks/hello/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
